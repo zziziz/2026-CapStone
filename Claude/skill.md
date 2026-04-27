@@ -297,4 +297,4 @@ AI 전공 취업 시 가장 중요한 역량은 무엇일까?
 
 >>이 내용을 기반으로 총 1분의 영상을 제작하여 주세요 글자는 깨지지 않게 해주세요
 
-<video src="./assets/demo_video.mp4" controls width="100%"></video>
+<video src="Claude/AI_전공_숏츠_제작_기획안.mp4" controls width="100%"></video>
